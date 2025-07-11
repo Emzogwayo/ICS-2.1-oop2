@@ -1,4 +1,4 @@
-package Coding_Challenge_3;
+
 
 import java.util.Scanner;
 

@@ -1,4 +1,3 @@
-package Coding_Challenge_5;
 import java.util.*;
 
 class HelloTillStop {
