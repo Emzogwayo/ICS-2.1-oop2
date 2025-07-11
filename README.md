@@ -61,12 +61,3 @@ This repository contains all Java coding challenges, practice exercises, and min
 | `Liskov_Substitution_Principle` | Shows substitutability with inheritance. |
 | `Interface_Segregation_Principle` | Encourages small, specific interfaces. |
 | `Dependency_Inversion_Principle` | Demonstrates abstraction over concrete implementation. |
-
----
-
-## ✅ Notes
-
-- Each file is individually testable and demonstrates one or more core Java concepts.
-- The project was built progressively across the semester, with improvements over time.
-- This README summarizes the contents for easier review and evaluation.
-
